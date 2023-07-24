@@ -45,7 +45,7 @@ apply from: 'https://raw.githubusercontent.com/MinecraftModDevelopment/Gradle-Co
 apply from: 'https://raw.githubusercontent.com/MinecraftModDevelopment/Gradle-Collection/master/minecraft/maven.gradle'
 
 loadSecrets()
-version = "2.0.0"
+version = "2.0.35"
 group = "net.darkhax.itemstages"
 archivesBaseName = "ItemStages-1.12.2"
 
